@@ -86,5 +86,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or further information, feel free to reach out:
-- **LinkedIn**: [Muhammed Kemal Yağcı](https://www.linkedin.com/in/muhammed-yagci/)
+- **LinkedIn**: [Muhammed Kemal Yağcı](https://www.linkedin.com/in/kemalyagci/)
 
